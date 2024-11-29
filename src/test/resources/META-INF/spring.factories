@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.wora.jhipster.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.wora.jhipster.\
+    config.RedisTestContainersSpringContextCustomizerFactory
